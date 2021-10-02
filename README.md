@@ -10,5 +10,9 @@ Leave-One-Out
 ## CSP Function
 myCSP()
 ## results
-Subject     1         2         3         4         5
-Accuracy  86.309%   96.875%   72.6190%  66.0714%   92.857%
+Subject: Accuracy
+1: 86.309%
+2: 96.875%
+3: 72.6190%
+4: 66.0714%
+5: 92.857%
