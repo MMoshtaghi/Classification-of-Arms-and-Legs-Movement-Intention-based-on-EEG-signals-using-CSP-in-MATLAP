@@ -9,3 +9,6 @@ Channels * SamplingFrequency * T
 Leave-One-Out
 ## CSP Function
 myCSP()
+## results
+Subject     1         2         3         4         5
+Accuracy  86.309%   96.875%   72.6190%  66.0714%   92.857%
